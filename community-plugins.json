@@ -10764,7 +10764,7 @@
         "id": "swiftlatex-render",
         "name": "SwiftLaTeX Render",
         "author": "gboyd068",
-        "description": "Render LaTeX in codeblocks into a PDF, without needing to install LaTeX separately.",
+        "description": "Render LaTeX in codeblocks into pdf or svg, without needing to install LaTeX separately.",
         "repo": "gboyd068/obsidian-swiftlatex-render"
     },
     {
